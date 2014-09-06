@@ -1,5 +1,5 @@
 {
-	"name": "muckeIT/silverstripe-fa", 
+	"name": "muckeit/silverstripe-fa", 
 	"license": "BSD-3-Clause", 
 	"description": "SilverStripe-Addon for font-awesome integration.", 
 	"type": "silverstripe-module", 
