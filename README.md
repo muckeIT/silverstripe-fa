@@ -25,12 +25,16 @@ Make all the objects of a class showing up with the same icon.
       extensions:
         - FAIconizedClass
 
+In your templates just use $FAIcon.
+
 ### Iconized Objects (DataExtension)
 Make the objects of a class showing up with a individual icon, editable within the CMS.
 
     ClassName:
       extensions:
         - FAIconizedObject
+
+In your templates just use $FAIcon.
 
 ## Todo
 This is just the very first version of this addon. There are some todos on the roadmap:
