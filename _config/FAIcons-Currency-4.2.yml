@@ -1,0 +1,34 @@
+---
+Name: fa-icons-curency
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+
+# Currency Icons
+FAIcon:
+  FileType:
+    bitcoin: bitcoin
+    btc: btc
+    cny: cny
+    dollar: dollar
+    eur: eur
+    euro: euro
+    gbp: gbp
+    ils: ils
+    inr: inr
+    jpy: jpy
+    krw: krw
+    money: money
+    rmb: rmb
+    rouble: rouble
+    rub: rub
+    ruble: ruble
+    rupee: rupee
+    shekel: shekel
+    sheqel: sheqel
+    try: try
+    turkish-lira: turkish-lira
+    usd: usd
+    won: won
+    yen: yen

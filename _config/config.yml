@@ -1,0 +1,20 @@
+---
+Name: fa
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+
+#ClassName:
+#  FAIcon: home
+#  extensions:
+#    - FAIconizedClass
+
+#ClassName:
+#  extensions:
+#    - FAIconizedObject
+
+FAIcon:
+  Tag: i
+  UseTemplate: false
+  

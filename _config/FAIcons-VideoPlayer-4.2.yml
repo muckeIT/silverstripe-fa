@@ -1,0 +1,26 @@
+---
+Name: fa-icons-videoplayer
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+
+# Video Player Icons
+FAIcon:
+  FileType:
+    arrows-alt: arrows-alt
+    backward: backward
+    compress: compress
+    eject: eject
+    expand: expand
+    fast-backward: fast-backward
+    fast-forward: fast-forward
+    forward: forward
+    pause: pause
+    play: play
+    play-circle: play-circle
+    play-circle-o: play-circle-o
+    step-backward: step-backward
+    step-forward: step-forward
+    stop: stop
+    youtube-play: youtube-play

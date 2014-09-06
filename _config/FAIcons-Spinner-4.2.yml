@@ -1,0 +1,15 @@
+---
+Name: fa-icons-spinner
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+
+# Spinner Icons
+FAIcon:
+  FileType:
+    circle-o-notch: circle-o-notch
+    cog: cog
+    gear: gear
+    refresh: refresh
+    spinner: spinner

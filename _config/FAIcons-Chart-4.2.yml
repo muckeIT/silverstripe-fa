@@ -1,0 +1,15 @@
+---
+Name: fa-icons-chart
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+
+# Chart Icons
+FAIcon:
+  FileType:
+    area-chart: area-chart
+    bar-chart: bar-chart
+    bar-chart-o: bar-chart-o
+    line-chart: line-chart
+    pie-chart: pie-chart

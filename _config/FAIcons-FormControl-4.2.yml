@@ -1,0 +1,21 @@
+---
+Name: fa-icons-formcontrol
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+
+# Form Control Icons
+FAIcon:
+  FileType:
+    check-square: check-square
+    check-square-o: check-square-o
+    circle: circle
+    circle-o: circle-o
+    dot-circle-o: dot-circle-o
+    minus-square: minus-square
+    minus-square-o: minus-square-o
+    plus-square: plus-square
+    plus-square-o: plus-square-o
+    square: square
+    square-o: square-o

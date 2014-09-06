@@ -1,0 +1,18 @@
+---
+Name: fa-icons-medical
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+
+# Medical Icons
+FAIcon:
+  FileType:
+    ambulance: ambulance
+    h-square: h-square
+    hospital-o: hospital-o
+    medkit: medkit
+    plus-square: plus-square
+    stethoscope: stethoscope
+    user-md: user-md
+    wheelchair: wheelchair

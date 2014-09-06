@@ -1,0 +1,19 @@
+---
+Name: fa-icons-payment
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+
+# Payment Icons
+FAIcon:
+  FileType:
+    cc-amex: cc-amex
+    cc-discover: cc-discover
+    cc-mastercard: cc-mastercard
+    cc-paypal: cc-paypal
+    cc-stripe: cc-stripe
+    cc-visa: cc-visa
+    credit-card: credit-card
+    google-wallet: google-wallet
+    paypal: paypal

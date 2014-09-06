@@ -1,0 +1,28 @@
+---
+Name: fa-icons-filetype
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+
+# File type Icons
+FAIcon:
+  FileType:
+    file: file
+    file-archive-o: file-archive-o
+    file-audio-o: file-audio-o
+    file-code-o: file-code-o
+    file-excel-o: file-excel-o
+    file-image-o: file-image-o
+    file-movie-o: file-movie-o
+    file-o: file-o
+    file-pdf-o: file-pdf-o
+    file-photo-o: file-photo-o
+    file-picture-o: file-picture-o
+    file-powerpoint-o: file-powerpoint-o
+    file-sound-o: file-sound-o
+    file-text: file-text
+    file-text-o: file-text-o
+    file-video-o: file-video-o
+    file-word-o: file-word-o
+    file-zip-o: file-zip-o

@@ -1,0 +1,62 @@
+---
+Name: fa-icons-directional
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+
+# Directional Icons
+FAIcon:
+  FileType:
+    angle-double-down: angle-double-down
+    angle-double-left: angle-double-left
+    angle-double-right: angle-double-right
+    angle-double-up: angle-double-up
+    angle-down: angle-down
+    angle-left: angle-left
+    angle-right: angle-right
+    angle-up: angle-up
+    arrow-circle-down: arrow-circle-down
+    arrow-circle-left: arrow-circle-left
+    arrow-circle-o-down: arrow-circle-o-down
+    arrow-circle-o-left: arrow-circle-o-left
+    arrow-circle-o-right: arrow-circle-o-right
+    arrow-circle-o-up: arrow-circle-o-up
+    arrow-circle-right: arrow-circle-right
+    arrow-circle-up: arrow-circle-up
+    arrow-down: arrow-down
+    arrow-left: arrow-left
+    arrow-right: arrow-right
+    arrow-up: arrow-up
+    arrows: arrows
+    arrows-alt: arrows-alt
+    arrows-h: arrows-h
+    arrows-v: arrows-v
+    caret-down: caret-down
+    caret-left: caret-left
+    caret-right: caret-right
+    caret-square-o-down: caret-square-o-down
+    caret-square-o-left: caret-square-o-left
+    caret-square-o-right: caret-square-o-right
+    caret-square-o-up: caret-square-o-up
+    caret-up: caret-up
+    chevron-circle-down: chevron-circle-down
+    chevron-circle-left: chevron-circle-left
+    chevron-circle-right: chevron-circle-right
+    chevron-circle-up: chevron-circle-up
+    chevron-down: chevron-down
+    chevron-left: chevron-left
+    chevron-right: chevron-right
+    chevron-up: chevron-up
+    hand-o-down: hand-o-down
+    hand-o-left: hand-o-left
+    hand-o-right: hand-o-right
+    hand-o-up: hand-o-up
+    long-arrow-down: long-arrow-down
+    long-arrow-left: long-arrow-left
+    long-arrow-right: long-arrow-right
+    long-arrow-up: long-arrow-up
+    toggle-down: toggle-down
+    toggle-left: toggle-left
+    toggle-right: toggle-right
+    toggle-up: toggle-up

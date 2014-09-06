@@ -1,0 +1,1 @@
+<$Tag class="fa fa-$Icon"></$Tag>

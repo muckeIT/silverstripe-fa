@@ -1,0 +1,15 @@
+{
+	"name": "muckeIT/silverstripe-fa", 
+	"license": "BSD-3-Clause", 
+	"description": "SilverStripe-Addon for font-awesome integration.", 
+	"type": "silverstripe-module", 
+	"keywords": ["silverstripe", "fortawesome", "fontawesome", "fa", "icons"], 
+	"authors": [{
+		"name": "Sebastian Mucke", 
+		"email": "sebastian.mucke@muckeit.de", 
+	}], 
+	"require": {
+		"silverstripe/framework": ">=3.1.0",
+		"silverstripe/cms": ">=3.1.0"
+	}
+}

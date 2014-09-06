@@ -1,0 +1,59 @@
+---
+Name: fa-icons-texteditor
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+
+# TextEditor Icons
+FAIcon:
+  FileType:
+    align-center: align-center
+    align-justify: align-justify
+    align-left: align-left
+    align-right: align-right
+    bold: bold
+    chain: chain
+    chain-broken: chain-broken
+    clipboard: clipboard
+    columns: columns
+    copy: copy
+    cut: cut
+    dedent: dedent
+    eraser: eraser
+    file: file
+    file-o: file-o
+    file-text: file-text
+    file-text-o: file-text-o
+    files-o: files-o
+    floppy-o: floppy-o
+    font: font
+    header: header
+    indent: indent
+    italic: italic
+    link: link
+    list: list
+    list-alt: list-alt
+    list-ol: list-ol
+    list-ul: list-ul
+    outdent: outdent
+    paperclip: paperclip
+    paragraph: paragraph
+    paste: paste
+    repeat: repeat
+    rotate-left: rotate-left
+    rotate-right: rotate-right
+    save: save
+    scissors: scissors
+    strikethrough: strikethrough
+    subscript: subscript
+    superscript: superscript
+    table: table
+    text-height: text-height
+    text-width: text-width
+    th: th
+    th-large: th-large
+    th-list: th-list
+    underline: underline
+    undo: undo
+    unlink: unlink
