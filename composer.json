@@ -6,7 +6,7 @@
 	"keywords": ["silverstripe", "fortawesome", "fontawesome", "fa", "icons"], 
 	"authors": [{
 		"name": "Sebastian Mucke", 
-		"email": "sebastian.mucke@muckeit.de", 
+		"email": "sebastian.mucke@muckeit.de" 
 	}], 
 	"require": {
 		"silverstripe/framework": ">=3.1.0",
