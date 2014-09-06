@@ -54,7 +54,7 @@ class FAIcon extends StringField
 	
 	public function forTemplate ()
 	{
-		Requirements::css('fa/css/font-awesome.min.css');
+		Requirements::css('silverstripe-fa/css/font-awesome.min.css');
 		if ($this->config()->get(FAIcon::CFG_USE_TEMPLATE))
 			return $this->renderWith('FAIcon', array('Icon' => $this->value));
 		else
