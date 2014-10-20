@@ -45,3 +45,4 @@ This is just the very first version of this addon. There are some todos on the r
 * Optionally require custom css/fonts or even CDN.
 * Tagging FAIcons.
 * Enhanced FAIconField with icon display, auto completion, tag search, etc.
+* Make CMS menu fa-iconizable.
